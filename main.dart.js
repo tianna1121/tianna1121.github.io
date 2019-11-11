@@ -32436,7 +32436,7 @@ gk:function(a){var u=this.a,t=u[0],s=u[1],r=u[2]
 u=u[3]
 return Math.sqrt(t*t+s*s+r*r+u*u)}}
 F.yV.prototype={
-L:function(a){return new S.n_(new F.n9("Flutter Demo Home Page",null),"Flutter Demo",X.Nx(null,C.hj),null)}}
+L:function(a){return new S.n_(new F.n9("Flutter Web",null),"Flutter Demo",X.Nx(null,C.hj),null)}}
 F.n9.prototype={
 aL:function(){return new F.pV(C.p)}}
 F.pV.prototype={
